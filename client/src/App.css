@@ -1,0 +1,19 @@
+.App {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+}
+/* below: center text vert and horz */
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #09d3ac;
+}
